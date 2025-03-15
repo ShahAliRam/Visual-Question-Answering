@@ -27,11 +27,8 @@ This model helps understand both images and text queries simultaneously.
 
 ## Implementation Details
 
-- Fine-tuned VILT for image feature extraction and question analysis.
-- Transparency and accountability in AI-driven decision-making.
-
-## Installation & Setup
-
+- Fine-tuned VILT for image feature extraction and question analysis on the dandelin/vilt-b32-mlm dataset available of HuggingFace.
+ 
 ### Prerequisites
 
 - Python 3.8+
