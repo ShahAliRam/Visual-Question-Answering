@@ -1,7 +1,5 @@
 # Visual Question Answering (VQA)
 
-Authors: Abdul Rafay, Shahram Ali
-
 ## Overview
 
 This repository contains the implementation of a Visual Question Answering (VQA) system, which integrates image processing and natural language processing (NLP) to answer questions related to images. The system extracts visual features using computer vision techniques and analyzes questions using NLP methods to provide accurate responses.
