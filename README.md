@@ -1,6 +1,5 @@
 # Visual Question Answering (VQA)
 
-```markdown
 Authors: Abdul Rafay, Shahram Ali
 
 ## Overview
@@ -23,7 +22,8 @@ This repository contains the implementation of a Visual Question Answering (VQA)
 
 ## Model Selection
 
-The **VILT (Vision and Language Transformer)** model was chosen due to its effectiveness in capturing complex visual features and semantic relationships. This model helps in understanding both images and text queries simultaneously.
+The **VILT (Vision and Language Transformer)** model was chosen due to its effectiveness in capturing complex visual features and semantic relationships.
+This model helps understand both images and text queries simultaneously.
 
 ## Implementation Details
 
@@ -43,5 +43,4 @@ The **VILT (Vision and Language Transformer)** model was chosen due to its effec
 - [Aishwarya Agrawa, 2015] VQA: Visual Question Answering
 - [Yeongjae Cho, 2024] Pretraining Vision-Language Model for Difference Visual Question Answering
 - [Ana Cláudia Akemi Matsuki de Faria, 2023] Survey on VQA Techniques
-```
 
